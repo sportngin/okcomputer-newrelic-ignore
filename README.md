@@ -1,6 +1,7 @@
-# Okcomputer::Newrelic::Ignore
+# OkComputer Newrelic Ignore
 
-TODO: Write a gem description
+Don't want [OKComputer](https://github.com/sportngin/okcomputer) to affect your
+NewRelic timing stats?
 
 ## Installation
 
@@ -15,10 +16,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install okcomputer-newrelic-ignore
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
